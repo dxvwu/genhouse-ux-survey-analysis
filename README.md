@@ -38,6 +38,19 @@ This analysis was conducted to support data-informed decision making.
 
 ---
 
+## Dataset Privacy Note
+
+The full survey dataset is not shared publicly to protect participant privacy.  
+This repository includes a small anonymized sample dataset in `/data/` for demonstration purposes.
+
+---
+
+## Key Questions Explored
+- What are the biggest challenges preventing designers from applying to jobs?
+- How confident are junior designers in their portfolios?
+
+---
+
 ## Key Questions Explored
 - What are the biggest challenges preventing designers from applying to jobs?
 - How confident are junior designers in their portfolios?
