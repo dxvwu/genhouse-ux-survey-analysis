@@ -88,7 +88,7 @@ This repository includes a small anonymized sample dataset in `/data/` for demon
 
 ## SQL Analysis
 All SQL queries used for analysis can be found here:
-- `/sql/ux_survey_analysis.sql`
+[View the full SQL analysis here](sql/ux_survey_analysis.sql)
 
 ---
 
