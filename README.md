@@ -1,5 +1,14 @@
 # Genhouse UX Survey Analysis
-SQL + Google Sheets dashboard analysis of early-career UX designer survey data for Genhouse, focused on career challenges, mentorship demand, and pricing insights.
+This project explores survey responses from early-career UX designers using SQL and Google Sheets dashboards, with a focus on mentorship demand, career challenges, and pricing expectations.
+
+## What I Did
+In this project, I:
+- Cleaned and organized raw Google Forms survey responses  
+- Wrote SQL queries to explore trends in confidence, mentorship, and pricing expectations  
+- Built pivot-table dashboards in Google Sheets to visualize key patterns  
+- Summarized findings into product and community recommendations for Genhouse
+
+--- 
 
 ## Project Overview
 This project analyzes UX survey data collected by the Genhouse UX team to understand
